@@ -1,4 +1,5 @@
 # ai-fluency-fl01
+
 # FL-01: AI Workflow Audit and Tool Setup
 **Anil Mali | AI & Data Science, KLE College of Engineering & Technology (VTU) | ML Intern, FlyRank AI**
 
@@ -46,4 +47,4 @@
 |------|--------------------|
 | **Prompt-tuning the LeadGenius AI Fit-Score node** | The AI-generated Fit Score (1–10) agrees with my own manual judgment on ≥8 of 10 test leads, and the 2-sentence summary correctly reflects the company's actual business (no hallucinated details) on every test case. |
 | **Weekly FlyRank internship status report drafting** | First AI draft needs ≤2 rounds of edits before it's send-ready, accurately reflects that week's actual work with zero fabricated claims, and takes me under 10 minutes total (draft + review) versus writing from scratch. |
-| **Deep RL paper/concept summarization for self-study** | I can explain the core idea back in my own words without notes afterward, the summary correctly identifies the paper's key contribution vs. prior work, and I catch at least one point where I'd push back on or want to verify the AI's explanation. |
+| **Deep RL paper/concept summarization for self-study** | I can explain the core idea back in my own words without notes afterward, the summary correctly identifies the paper's key contribution vs. prior work, and I catch at least one point where I'd push back on or want to verify the AI's explanation. 
